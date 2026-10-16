@@ -11,4 +11,4 @@ A simple To-Do list built with python. Add, view and delete paragraphs and tasks
 - Remove tasks
 - Remove paragraph file
 
-#### Feel free to open an issue or submit a pull requests.
+#### Feel free to open an issue or submit pull requests.
